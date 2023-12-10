@@ -20,7 +20,7 @@ Dataset provided is day.csv
   - snowy weather (Light Snow, Light Rain)
   - misty weather (Mist + Cloudy)
 
-- Final model prediction
+## Final model prediction
    
     Train dataset R squared : 0.835
     Test dataset R squared : 0.796
@@ -28,7 +28,7 @@ Dataset provided is day.csv
     Test dataset Adjusted R square : 0.785
 
 
-- EDA Analysis & observations
+## EDA Analysis & observations
   
    - Fall season has the highest number of bookings
    - Year 2019 has more bookings than 2018
